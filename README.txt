@@ -1,0 +1,1 @@
+This repository includes all assignments, labs, and projects relevant to my computer science coursework organized by class.
